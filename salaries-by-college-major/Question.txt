@@ -1,0 +1,13 @@
+Questions I Explored in This Project 📊🧠
+
+1. How many rows does my dataframe have?
+2. How many columns does it contain?
+3. What are the labels of all the columns? Do they have proper names?
+4. Are there any missing values in my dataframe? Does my dataset contain any bad or inconsistent data?
+5. Which college major has the highest mid-career salary (10+ years of experience), and how much do graduates earn?
+6. Which college major has the lowest starting salary, and what do graduates typically earn immediately after university?
+7. Which college major has the lowest mid-career salary, and what can people expect to earn with that degree after 10+ years?
+8. Using .sort_values(), what are the top 5 degrees with the highest earning potential based on the 90th percentile salary values?
+9. Which majors show the greatest salary spread?
+10.How can I use groupby() to analyze the dataset by category or major type?
+11.How can I apply mean() to compute average salaries or other numerical insights across groups?
