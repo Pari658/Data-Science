@@ -1,0 +1,13 @@
+Questions I Explored in This Project 📊🧠
+
+1. How can I load my dataset from a CSV file and assign meaningful column names to it?
+2. What do the first few and last few rows of my dataframe look like, and what initial patterns can I observe?
+3. How many total rows and columns does my dataset contain?
+4. How many non-null values exist in each column, and does this reveal anything about data completeness?
+5. Which tags have the highest total number of posts, and how can I rank them from most to least popular?
+6. How many times does each tag appear in the dataset when I count occurrences instead of summing post values?
+7. What data type is my Date column, and how can I convert it into proper datetime format for time-series analysis?
+8. How can I reshape the dataset so that each date becomes a row, each tag becomes a column, and post counts fill the table?
+9. After reshaping, what does the new table look like in terms of dimensions, column names, and completeness?
+10.How can I plot a time-series line chart that shows the posting trend of every tag across all dates?
+11.How can I smooth the time-series lines using a rolling mean to better visualize long-term trends without noise?
